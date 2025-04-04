@@ -1,0 +1,41 @@
+# 编辑器目录和文件
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 依赖目录
+node_modules/
+__pycache__/
+*.py[cod]
+
+# 环境文件
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+
+# 测试覆盖率报告
+coverage/
+.nyc_output/
+
+# 构建产物
+dist/
+build/
+*.exe
+*.dll
+
+# 文档生成
+site/
+
+# 其他
+*.bak
+*.tmp
+*.pid
