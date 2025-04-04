@@ -1,22 +1,36 @@
-[![日本語](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg)](../../README.ja.md)
-[![简体中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg)](../../README.zh-CN.md)
-[![繁體中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tw.svg)](../../README.zh-TW.md)
-[![English](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg)](../../README.en.md)
-[![Français](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg)](../../README.fr.md)
-[![Deutsch](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg)](../../README.de.md)
-[![Русский](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg)](../../README.ru.md)
-[![Español](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg)](../../README.es.md)
-[![한국어](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kr.svg)](../../README.ko.md)
+[![徽章信息](../badges.md)]
+
+[![语言选择](../links.md)]
+
 
 # Awesome AI SDLC
-
 バージョン: v0.0.1
 
 ## プロジェクト概要
 
 このプロジェクトは、AIを活用したソフトウェア開発ライフサイクル(SDLC)におけるベストプラクティス、ツールチェーン、ワークフローを収集・整理しています。AIプロジェクトに携わる開発者向けの包括的なリソースリストを提供することを目的としています。
 
+> 注意: このドキュメントはTrae AIによって自動翻訳されました。翻訳には不正確な点が含まれる可能性があります。最も正確なバージョンについては、[中国語のオリジナルREADME](../../README.md)を参照してください。
+
 ## 目次
+
+- [概念と理論](#概念と理論)
+- [ツールとプラットフォーム](#ツールとプラットフォーム)
+- [ケーススタディ](#ケーススタディ)
+- [コミュニティとフォーラム](#コミュニティとフォーラム)
+- [将来のトレンド](#将来のトレンド)
+
+## リソースカテゴリ
+
+### 概念と理論
+
+### ツールとプラットフォーム
+
+### ケーススタディ
+
+### コミュニティとフォーラム
+
+### 将来のトレンド
 
 - [概念と理論](#概念と理論)
 - [ツールとプラットフォーム](#ツールとプラットフォーム)
@@ -50,7 +64,7 @@
 
 - [概念と理論](#概念と理論)
 - [ツールとプラットフォーム](#ツールとプラットフォーム)
-- [実践事例](#実践事例)
+- [ケーススタディ](#ケーススタディ)
 - [コミュニティとフォーラム](#コミュニティとフォーラム)
 - [将来のトレンド](#将来のトレンド)
 
@@ -60,7 +74,7 @@
 
 ### ツールとプラットフォーム
 
-### 実践事例
+### ケーススタディ
 
 ### コミュニティとフォーラム
 

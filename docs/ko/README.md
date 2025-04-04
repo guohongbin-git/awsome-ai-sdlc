@@ -1,4 +1,6 @@
-[🇨🇳 中文](../../README.md) | [🇨🇳 繁體中文](../zh-TW/README.md) | [🇺🇸 English](../en/README.md) | [🇯🇵 日本語](../ja/README.md) | [🇫🇷 Français](../fr/README.md) | [🇩🇪 Deutsch](../de/README.md) | [🇷🇺 Русский](../ru/README.md) | [🇪🇸 Español](../es/README.md) | [🇰🇷 한국어](README.md)
+[![徽章信息](../../badges.md)]
+
+[![语言选择](../../links.md)]
 
 # Awesome AI SDLC
 

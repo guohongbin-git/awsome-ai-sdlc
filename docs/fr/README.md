@@ -1,4 +1,9 @@
+[![徽章信息](../badges.md)]
+
+[![语言选择](../links.md)]
+
 # Awesome AI SDLC
+Version: v0.0.1
 
 > Remarque : Ce document a été automatiquement traduit par Trae AI. La traduction peut contenir des inexactitudes. Pour la version la plus précise, veuillez vous référer au [README original en chinois](../../README.md).
 
