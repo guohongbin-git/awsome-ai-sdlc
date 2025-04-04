@@ -2,6 +2,42 @@
 
 # Awesome AI SDLC
 
+Version: v0.0.1
+
+## Projektbeschreibung
+
+Dieses Projekt sammelt und organisiert Best Practices, Toolchains und Workflows für den KI-unterstützten Software Development Life Cycle (SDLC). Es zielt darauf ab, eine umfassende Ressourcenliste für Entwickler von KI-Projekten bereitzustellen.
+
+## Inhaltsverzeichnis
+
+- [Konzepte & Theorien](#konzepte--theorien)
+- [Tools & Plattformen](#tools--plattformen)
+- [Fallstudien](#fallstudien)
+- [Communities & Foren](#communities--foren)
+- [Zukunftstrends](#zukunftstrends)
+
+## Ressourcenkategorien
+
+### Konzepte & Theorien
+
+1. **KI in der Softwareentwicklung**
+   - Grundlegende Theorien und praktische Methoden zur Anwendung von KI in verschiedenen SDLC-Phasen
+   - KI-unterstützte Techniken für Anforderungsanalyse, Design, Codierung, Tests und Wartung
+
+2. **KI-unterstützter Softwareentwicklungslebenszyklus**
+   - Wie KI Effizienz und Genauigkeit im gesamten SDLC verbessert
+   - KI-Anwendungen, die den gesamten Lebenszyklus von der Planung bis zur Bereitstellung abdecken
+
+3. **Maschinelles Lernen für die Softwareentwicklung**
+   - Anwendungen von ML in Codegenerierung, Fehlererkennung und Leistungsoptimierung
+   - Fallstudien zu überwachtem, unüberwachtem und bestärkendem Lernen im SDLC
+
+4. **Rolle von generativer KI und LLMs im SDLC**
+   - Anwendungen von GenAI in Anforderungsdokumentation, Codegenerierung und Testfallerstellung
+   - Wie LLMs die Produktivität von Entwicklern und die Codequalität verbessern
+
+> Hinweis: Dieses Dokument wurde automatisch von Trae AI übersetzt. Die Übersetzung kann Ungenauigkeiten enthalten. Für die genaueste Version verweisen wir auf die [originale chinesische README](../../README.md).
+
 > Hinweis: Dieses Dokument wurde automatisch von Trae AI übersetzt. Die Übersetzung kann Ungenauigkeiten enthalten. Für die genaueste Version konsultieren Sie bitte die [originale chinesische README](../../README.md).
 
 ## Projektbeschreibung
