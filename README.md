@@ -21,6 +21,7 @@
 ## 资源分类
 
 ### 概念与理论
+![AI在软件开发中的应用](assets/images/AI 在软件开发中的应用 - visual selection.png)
 
 1. **AI 在软件开发中的应用 (AI in Software Development)**
    - 概述AI如何应用于SDLC各个阶段的基础理论和实践方法
