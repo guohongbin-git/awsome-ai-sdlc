@@ -1,14 +1,4 @@
-[![简体中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg)](docs/zh-CN/README.md)
-[![繁體中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tw.svg)](docs/zh-TW/README.md)
-[![English](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg)](docs/en/README.md)
-[![日本語](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg)](docs/ja/README.md)
-[![Français](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg)](docs/fr/README.md)
-[![Deutsch](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/de.svg)](docs/de/README.md)
-[![Русский](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/ru.svg)](docs/ru/README.md)
-[![Español](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/es.svg)](docs/es/README.md)
-[![한국어](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/kr.svg)](docs/ko/README.md)
-
-[🇨🇳 中文](docs/zh-CN/README.md) | [🇹🇼 繁體中文](docs/zh-TW/README.md) | [🇺🇸 English](docs/en/README.md) | [🇯🇵 日本語](docs/ja/README.md) | [🇫🇷 Français](docs/fr/README.md) | [🇩🇪 Deutsch](docs/de/README.md) | [🇷🇺 Русский](docs/ru/README.md) | [🇪🇸 Español](docs/es/README.md) | [🇰🇷 한국어](docs/ko/README.md)
+[🇨🇳 中文](docs/zh-CN/README.md) | [🇨🇳 繁體中文](docs/zh-TW/README.md) | [🇺🇸 English](docs/en/README.md) | [🇯🇵 日本語](docs/ja/README.md) | [🇫🇷 Français](docs/fr/README.md) | [🇩🇪 Deutsch](docs/de/README.md) | [🇷🇺 Русский](docs/ru/README.md) | [🇪🇸 Español](docs/es/README.md) | [🇰🇷 한국어](docs/ko/README.md)
 
 # Awesome AI SDLC
 
@@ -46,18 +36,18 @@
 
 参与前请阅读我们的[CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)。
 
-## Mitwirkende
+## 贡献者
 
-- 🤖 AI-generierte Inhalte (Trae AI)
-- 🧑‍💻 Menschliche Beiträge
+- 🤖 AI生成内容 (Trae AI)
+- 🧑‍💻 人工贡献
 
-## Zusammenarbeitsweise
+## 协作方式
 
-Dieses Projekt nutzt eine einzigartige Zusammenarbeit zwischen Menschen und KI:
-1. Inhaltserstellung: Trae AI generiert erste Entwürfe basierend auf menschlichen Eingaben
-2. Überprüfung: Menschliche Mitwirkende überprüfen und verfeinern die Inhalte
-3. Übersetzung: Trae AI übersetzt Dokumente zwischen Sprachen
-4. Wartung: Menschliche Mitwirkende verwalten das Projekt und kurieren die Inhalte
+本项目采用人机协作的创新模式：
+1. 内容创作：Trae AI根据人工输入生成初稿
+2. 审核：人工贡献者审核并优化内容
+3. 翻译：Trae AI完成文档的多语言互译
+4. 维护：人工贡献者管理项目并精选内容
 
 ## License
 
