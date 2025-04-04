@@ -1,5 +1,5 @@
 [![简体中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg)](../../README.zh-CN.md)
-[![繁體中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/tw.svg)](../../README.zh-TW.md)
+[![繁體中文](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/cn.svg)](../../README.zh-TW.md)
 [![English](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/us.svg)](../../README.en.md)
 [![日本語](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/jp.svg)](../../README.ja.md)
 [![Français](https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/flags/4x3/fr.svg)](../../README.fr.md)
