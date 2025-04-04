@@ -1,13 +1,15 @@
-[![徽章信息](../badges.md)]
+[![徽章信息](./docs/shared/badges.md)]
 
-[![语言选择](../links.md)]
+[![语言选择](./docs/shared/links.md)]
 
 # Awesome AI SDLC
-Version: v0.0.1
+Version: v0.0.2
 
 ## Project Description
 
 This project collects and organizes best practices, toolchains, and workflows for AI-assisted Software Development Life Cycle (SDLC). It aims to provide a comprehensive resource list for developers working on AI projects.
+
+> Note: This document is automatically translated by Trae AI. The translation may contain inaccuracies. For the most accurate version, please refer to the [Chinese original README](../../README.md).
 
 ## Table of Contents
 

@@ -1,6 +1,6 @@
-[![徽章信息](../badges.md)]
+[![徽章信息](./docs/shared/badges.md)]
 
-[![语言选择](../links.md)]
+[![语言选择](./docs/shared/links.md)]
 
 # Awesome AI SDLC
 
