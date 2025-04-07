@@ -1,10 +1,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/) [![Platform](https://img.shields.io/badge/Platform-Linux%20|%20macOS%20|%20Windows-lightgrey.svg)](https://en.wikipedia.org/wiki/Cross-platform) [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/) [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0) [![Topprism](https://img.shields.io/badge/Topprism-Data%20Intelligence-orange.svg)](https://www.topprismdata.com/)
 
-[🇨🇳 中文](docs/zh-CN/README.md) | [🇨🇳 繁體中文](docs/zh-TW/README.md) | [🇺🇸 English](docs/en/README.md) | [🇯🇵 日本語](docs/ja/README.md) | [🇫🇷 Français](docs/fr/README.md) | [🇩🇪 Deutsch](docs/de/README.md) | [🇷🇺 Русский](docs/ru/README.md) | [🇪🇸 Español](docs/es/README.md) | [🇰🇷 한국어](docs/ko/README.md)
+[🇨🇳 中文](docs/zh-CN/README.md) | [🇺🇸 English](docs/en/README.md)
 
 # Awesome AI SDLC
 
-版本: v0.0.2
+版本: v0.0.3
 
 ## 项目描述
 
@@ -40,6 +40,30 @@
    - LLMs如何提升开发者的生产力和代码质量
 
 ### 工具与平台
+
+本部分列出了利用人工智能技术来辅助软件开发生命周期各个阶段的工具和平台。这些工具旨在提高开发效率、提升软件质量，并降低开发门槛。
+
+#### 代码生成工具
+
+
+
+#### 智能测试工具
+
+| 工具名称 | 核心价值 |
+|---------|---------|
+| [GitHub Copilot code review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review) | - 提高代码质量：早期识别代码缺陷和安全漏洞<br>- 开发效率提升：自动化审查节省30%人工耗时<br>- 技能培养机制：实时反馈促进编码规范掌握<br>- 审查客观性：AI算法消除人为认知偏差<br>- 流程集成度：无缝对接GitHub开发工作流 |
+
+#### 需求管理工具
+
+
+#### AI 辅助设计工具
+
+
+#### DevOps 和部署工具
+
+
+#### 综合 AI 开发平台
+
 
 ### 实践案例
 
