@@ -10,7 +10,7 @@ Version: v0.0.1
 
 This project collects and organizes best practices, tools and workflows for AI-assisted Software Development Life Cycle (SDLC). It aims to provide a comprehensive resource list for developers working on AI projects.
 
-> Note: This document is automatically translated by Trae AI. The translation may contain inaccuracies. For the most accurate version, please refer to the [Chinese original README](../../README.md).
+
 
 ## Table of Contents
 
@@ -58,11 +58,23 @@ This project collects and organizes best practices, tools and workflows for AI-a
 
 ### Tools & Platforms
 
+This section lists tools and platforms that utilize artificial intelligence to assist various stages of the software development lifecycle. These tools aim to improve development efficiency, enhance software quality, and lower development barriers.
+
+#### Code Generation Tools
+
 #### Smart Testing Tools
 
 | Tool Name | Core Value |
 |---------|---------|
 | [GitHub Copilot code review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review) | - Improve code quality: Early identification of code defects and security vulnerabilities<br>- Development efficiency: Automate reviews saving 30% manual effort<br>- Skill development: Real-time feedback for coding standards<br>- Review objectivity: AI algorithms eliminate human bias<br>- Workflow integration: Seamless GitHub integration |
+
+#### Requirements Management Tools
+
+#### AI-assisted Design Tools
+
+#### DevOps and Deployment Tools
+
+#### Comprehensive AI Development Platforms
 
 ### Case Studies
 
@@ -94,11 +106,23 @@ Please read our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) before participating.
 
 ### Tools & Platforms
 
+This section lists tools and platforms that utilize artificial intelligence to assist various stages of the software development lifecycle. These tools aim to improve development efficiency, enhance software quality, and lower development barriers.
+
+#### Code Generation Tools
+
 #### Smart Testing Tools
 
 | Tool Name | Core Value |
 |---------|---------|
 | [GitHub Copilot code review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review) | - Improve code quality: Early identification of code defects and security vulnerabilities<br>- Development efficiency: Automate reviews saving 30% manual effort<br>- Skill development: Real-time feedback for coding standards<br>- Review objectivity: AI algorithms eliminate human bias<br>- Workflow integration: Seamless GitHub integration |
+
+#### Requirements Management Tools
+
+#### AI-assisted Design Tools
+
+#### DevOps and Deployment Tools
+
+#### Comprehensive AI Development Platforms
 
 ### Case Studies
 
