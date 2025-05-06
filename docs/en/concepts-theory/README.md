@@ -13,7 +13,7 @@ AI technologies are revolutionizing every stage of software development. From re
 ## AI-assisted Software Development Lifecycle
 
 AI enhances the entire SDLC process, including:
-- Requirements analysis: NLP techniques help understand user needs
+- Requirements Analysis: [NLP Technology Applications](requirements-analysis.md) help understand user needs
 - System design: AI algorithms optimize architecture
 - Implementation: Code generation and auto-completion
 - Testing: Intelligent test case generation
