@@ -15,7 +15,7 @@ AI技术正在彻底改变软件开发的各个阶段。从需求分析到设计
 ## AI 辅助的软件开发生命周期 (AI-assisted Software Development Lifecycle)
 
 AI可以增强整个SDLC流程，包括：
-- 需求分析：自然语言处理技术帮助理解用户需求
+- 需求分析：[自然语言处理技术应用](requirements-analysis.md)帮助理解用户需求
 - 系统设计：AI算法优化架构设计
 - 编码实现：代码自动生成和补全
 - 测试验证：智能测试用例生成
